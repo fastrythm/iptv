@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,Hope Channel
+http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+#EXTINF:0,Telewizja Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0,Telewizja Pogranicze
+http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
+#EXTINF:0,Telewizja Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+#EXTINF:0,Telewizja Wielkopolska
+http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
+#EXTINF:0,Truso TV
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
+#EXTINF:0,Truso TV
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0,WTK
+http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
+#EXTINF:0,Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install

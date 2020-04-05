@@ -1,0 +1,743 @@
+#EXTM3U
+#EXTINF:-1,----- ShowFlix Movies -----
+http://showflix.org:5890/maria/1234/67826
+#EXTINF:-1,ShowFlix Movies Action FR 
+http://showflix.org:5890/maria/1234/67818
+#EXTINF:-1,ShowFlix Movies Drama FR 
+http://showflix.org:5890/maria/1234/67819
+#EXTINF:-1,ShowFlix Movies Comédie FR 
+http://showflix.org:5890/maria/1234/67820
+#EXTINF:-1,ShowFlix Movies Horreur / Scf Fi FR 
+http://showflix.org:5890/maria/1234/67821
+#EXTINF:-1,ShowFlix Movies  Animation FR 
+http://showflix.org:5890/maria/1234/67822
+#EXTINF:-1,ShowFlix Movies Arabic
+http://showflix.org:5890/maria/1234/67823
+#EXTINF:-1,ShowFlix Movies Turkish
+http://showflix.org:5890/maria/1234/67824
+#EXTINF:-1,ShowFlix Movies Action -[Subs-ar]
+http://showflix.org:5890/maria/1234/67825
+#EXTINF:-1,ShowFlix Movies Drama -[Subs-ar]
+http://showflix.org:5890/maria/1234/68414
+#EXTINF:-1,ShowFlix Movies Comédie -[Subs-ar]
+http://showflix.org:5890/maria/1234/68415
+#EXTINF:-1,ShowFlix Movies Horreur -[Subs-ar]
+http://showflix.org:5890/maria/1234/68416
+#EXTINF:-1,ShowFlix Movies Animation [Subs-ar]
+http://showflix.org:5890/maria/1234/68417
+#EXTINF:-1,ShowFlix Movies N SCF FI [Subs-ar]
+http://showflix.org:5890/maria/1234/69715
+#EXTINF:-1,ShowFlix Movies Discovery [Subs-ar]
+http://showflix.org:5890/maria/1234/70325
+#EXTINF:-1,ShowFlix Movies Series [Subs-ar]
+http://showflix.org:5890/maria/1234/70326
+#EXTINF:-1,ShowFlix Movies Classic [Subs-ar]
+http://showflix.org:5890/maria/1234/70327
+#EXTINF:-1,ShowFlix Movies Bollywood [Subs-ar]
+http://showflix.org:5890/maria/1234/70328
+#EXTINF:-1,ShowFlix Movies Box Office [Subs-ar]
+http://showflix.org:5890/maria/1234/70329
+#EXTINF:-1,ShowFlix Quran
+http://showflix.org:5890/maria/1234/71172
+#EXTINF:-1,------FRANCE ------
+http://showflix.org:5890/maria/1234/463
+#EXTINF:-1,FR | CORONA VIRUS
+http://showflix.org:5890/maria/1234/70408
+#EXTINF:-1,FR| TF1 FHD
+http://showflix.org:5890/maria/1234/464
+#EXTINF:-1,FR| TF1 HD
+http://showflix.org:5890/maria/1234/465
+#EXTINF:-1,TF1 H265
+http://showflix.org:5890/maria/1234/56260
+#EXTINF:-1,FR| FRANCE 2 FHD
+http://showflix.org:5890/maria/1234/467
+#EXTINF:-1,FR| FRANCE 2 HD
+http://showflix.org:5890/maria/1234/468
+#EXTINF:-1,FRANCE 2 H265
+http://showflix.org:5890/maria/1234/56261
+#EXTINF:-1,FR| FRANCE 3 FHD
+http://showflix.org:5890/maria/1234/469
+#EXTINF:-1,FR| FRANCE 3 HD
+http://showflix.org:5890/maria/1234/470
+#EXTINF:-1,FRANCE 3 H265
+http://showflix.org:5890/maria/1234/56262
+#EXTINF:-1,FR| FRANCE 3 NOA FHD
+http://showflix.org:5890/maria/1234/466
+#EXTINF:-1,FR| FRANCE 4 FHD
+http://showflix.org:5890/maria/1234/471
+#EXTINF:-1,FR| FRANCE 4 HD
+http://showflix.org:5890/maria/1234/472
+#EXTINF:-1,FRANCE4 H265
+http://showflix.org:5890/maria/1234/56263
+#EXTINF:-1,FR| FRANCE 5 FHD
+http://showflix.org:5890/maria/1234/473
+#EXTINF:-1,FR| FRANCE 5 HD
+http://showflix.org:5890/maria/1234/474
+#EXTINF:-1,FRANCE5 H265
+http://showflix.org:5890/maria/1234/56264
+#EXTINF:-1,FR| FRANCE O FHD
+http://showflix.org:5890/maria/1234/475
+#EXTINF:-1,FR| FRANCE O HD
+http://showflix.org:5890/maria/1234/476
+#EXTINF:-1,FRANCEO H265
+http://showflix.org:5890/maria/1234/56273
+#EXTINF:-1,FR| W9 FHD
+http://showflix.org:5890/maria/1234/479
+#EXTINF:-1,FR| W9 HD
+http://showflix.org:5890/maria/1234/480
+#EXTINF:-1,W9 H265
+http://showflix.org:5890/maria/1234/56267
+#EXTINF:-1,FR| M6 FHD
+http://showflix.org:5890/maria/1234/477
+#EXTINF:-1,FR| M6 HD
+http://showflix.org:5890/maria/1234/478
+#EXTINF:-1,M6 H265
+http://showflix.org:5890/maria/1234/56265
+#EXTINF:-1,FR| C8 FHD
+http://showflix.org:5890/maria/1234/481
+#EXTINF:-1,FR| C8 HD
+http://showflix.org:5890/maria/1234/482
+#EXTINF:-1,C8 H265
+http://showflix.org:5890/maria/1234/56268
+#EXTINF:-1,FR| CSTAR FHD
+http://showflix.org:5890/maria/1234/483
+#EXTINF:-1,FR| CSTAR HD
+http://showflix.org:5890/maria/1234/484
+#EXTINF:-1,CSTAR H265
+http://showflix.org:5890/maria/1234/56270
+#EXTINF:-1,FR| CSTAR HITS FHD
+http://showflix.org:5890/maria/1234/485
+#EXTINF:-1,FR| RTS UN FHD
+http://showflix.org:5890/maria/1234/486
+#EXTINF:-1,FR| RTS DEUX FHD
+http://showflix.org:5890/maria/1234/487
+#EXTINF:-1,FR| 6TER FHD
+http://showflix.org:5890/maria/1234/488
+#EXTINF:-1,FR| 6TER HD
+http://showflix.org:5890/maria/1234/489
+#EXTINF:-1,6TER H265
+http://showflix.org:5890/maria/1234/56281
+#EXTINF:-1,--FR| INFORMATION | LIVE --
+http://showflix.org:5890/maria/1234/493
+#EXTINF:-1,FR| EURONEWS HD
+http://showflix.org:5890/maria/1234/500
+#EXTINF:-1,FR| FRANCE 24
+http://showflix.org:5890/maria/1234/494
+#EXTINF:-1,FR| CNEWS FHD
+http://showflix.org:5890/maria/1234/495
+#EXTINF:-1,FR| CNEWS HD
+http://showflix.org:5890/maria/1234/496
+#EXTINF:-1,CNEWS H265
+http://showflix.org:5890/maria/1234/56269
+#EXTINF:-1,FR| I24 NEWS FHD
+http://showflix.org:5890/maria/1234/497
+#EXTINF:-1,FR| La Chainne Meteo
+http://showflix.org:5890/maria/1234/503
+#EXTINF:-1,FR| LCI FHD
+http://showflix.org:5890/maria/1234/504
+#EXTINF:-1,LCI H265
+http://showflix.org:5890/maria/1234/56271
+#EXTINF:-1,LCP H265
+http://showflix.org:5890/maria/1234/56259
+#EXTINF:-1,FR| TV5MONDE FHD
+http://showflix.org:5890/maria/1234/501
+#EXTINF:-1,FR| FRANCE INFO FHD
+http://showflix.org:5890/maria/1234/502
+#EXTINF:-1,FR| BFM TV FHD
+http://showflix.org:5890/maria/1234/498
+#EXTINF:-1,FR| BFM TV HD
+http://showflix.org:5890/maria/1234/499
+#EXTINF:-1,BFMTV H265
+http://showflix.org:5890/maria/1234/56272
+#EXTINF:-1,BFM PARIS H265
+http://showflix.org:5890/maria/1234/56340
+#EXTINF:-1,--FR| DIVERTISSE | LIVE --
+http://showflix.org:5890/maria/1234/505
+#EXTINF:-1,FR| TF1 SERIES FILMS FHD
+http://showflix.org:5890/maria/1234/506
+#EXTINF:-1,FR| TF1 SERIES FILMS HD
+http://showflix.org:5890/maria/1234/507
+#EXTINF:-1,TF1 SERIES FILMS H265
+http://showflix.org:5890/maria/1234/56279
+#EXTINF:-1,FR| TFX FHD
+http://showflix.org:5890/maria/1234/508
+#EXTINF:-1,FR| TFX HD
+http://showflix.org:5890/maria/1234/509
+#EXTINF:-1,TFX H265
+http://showflix.org:5890/maria/1234/56278
+#EXTINF:-1,FR| TEVA FHD
+http://showflix.org:5890/maria/1234/491
+#EXTINF:-1,FR| TEVA HD
+http://showflix.org:5890/maria/1234/492
+#EXTINF:-1,TEVA H265
+http://showflix.org:5890/maria/1234/56307
+#EXTINF:-1,FR| RTL 9 FHD
+http://showflix.org:5890/maria/1234/490
+#EXTINF:-1,RTL9 H265
+http://showflix.org:5890/maria/1234/56282
+#EXTINF:-1,FR| 13EME RUE FHD
+http://showflix.org:5890/maria/1234/518
+#EXTINF:-1,FR| 13EME RUE HD
+http://showflix.org:5890/maria/1234/519
+#EXTINF:-1,FR| AB1 FHD
+http://showflix.org:5890/maria/1234/522
+#EXTINF:-1,FR| AB1 HD
+http://showflix.org:5890/maria/1234/523
+#EXTINF:-1,FR| AB3 FHD
+http://showflix.org:5890/maria/1234/524
+#EXTINF:-1,FR| AB3 HD
+http://showflix.org:5890/maria/1234/525
+#EXTINF:-1,FR| ACTION FHD
+http://showflix.org:5890/maria/1234/545
+#EXTINF:-1,FR| ACTION HD
+http://showflix.org:5890/maria/1234/546
+#EXTINF:-1,ACTION H265
+http://showflix.org:5890/maria/1234/56304
+#EXTINF:-1,FR| ARTE FHD
+http://showflix.org:5890/maria/1234/514
+#EXTINF:-1,FR| ARTE HD
+http://showflix.org:5890/maria/1234/515
+#EXTINF:-1,ARTE H265
+http://showflix.org:5890/maria/1234/56266
+#EXTINF:-1,FR| CHERIE 25 FHD
+http://showflix.org:5890/maria/1234/520
+#EXTINF:-1,FR| CHERIE 25 HD
+http://showflix.org:5890/maria/1234/521
+#EXTINF:-1,FR| COMEDIE+ FHD
+http://showflix.org:5890/maria/1234/547
+#EXTINF:-1,FR| COMEDIE+ HD
+http://showflix.org:5890/maria/1234/548
+#EXTINF:-1,FR| E! ENTERTAINMENT FHD
+http://showflix.org:5890/maria/1234/512
+#EXTINF:-1,FR| E! ENTERTAINMENT HD
+http://showflix.org:5890/maria/1234/513
+#EXTINF:-1,FR| DEMAIN ! IDF FHD
+http://showflix.org:5890/maria/1234/551
+#EXTINF:-1,FR| PARAMOUNT CHANNEL FHD
+http://showflix.org:5890/maria/1234/535
+#EXTINF:-1,FR| PARAMOUNT CHANNEL HD
+http://showflix.org:5890/maria/1234/536
+#EXTINF:-1,FR| PARAMOUNT CHANNEL DECALE  FHD
+http://showflix.org:5890/maria/1234/537
+#EXTINF:-1,FR| PARIS PREMIERE FHD
+http://showflix.org:5890/maria/1234/543
+#EXTINF:-1,FR| PARIS PREMIERE HD
+http://showflix.org:5890/maria/1234/544
+#EXTINF:-1,FR| POLAR+ FHD
+http://showflix.org:5890/maria/1234/530
+#EXTINF:-1,FR| POLAR+ HD
+http://showflix.org:5890/maria/1234/531
+#EXTINF:-1,FR| RMC STORY FHD
+http://showflix.org:5890/maria/1234/526
+#EXTINF:-1,FR| RMC STORY HD
+http://showflix.org:5890/maria/1234/527
+#EXTINF:-1,RMC STORY H265
+http://showflix.org:5890/maria/1234/56283
+#EXTINF:-1,FR| SERIE CLUB FHD
+http://showflix.org:5890/maria/1234/528
+#EXTINF:-1,FR| SERIE CLUB HD
+http://showflix.org:5890/maria/1234/529
+#EXTINF:-1,FR| SYFY FHD
+http://showflix.org:5890/maria/1234/516
+#EXTINF:-1,FR| SYFY HD
+http://showflix.org:5890/maria/1234/517
+#EXTINF:-1,FR| TCM CINEMA FHD
+http://showflix.org:5890/maria/1234/538
+#EXTINF:-1,FR| TCM CINEMA HD
+http://showflix.org:5890/maria/1234/539
+#EXTINF:-1,FR| TMC FHD
+http://showflix.org:5890/maria/1234/540
+#EXTINF:-1,FR| TMC HD
+http://showflix.org:5890/maria/1234/541
+#EXTINF:-1,TMC H265
+http://showflix.org:5890/maria/1234/56280
+#EXTINF:-1,FR| SUNDANCE TV FHD
+http://showflix.org:5890/maria/1234/511
+#EXTINF:-1,FR| TV BREIZH FHD
+http://showflix.org:5890/maria/1234/533
+#EXTINF:-1,FR| TV BREIZH HD
+http://showflix.org:5890/maria/1234/534
+#EXTINF:-1,FR| WARNER TV FHD
+http://showflix.org:5890/maria/1234/532
+#EXTINF:-1,WARNER TV H265
+http://showflix.org:5890/maria/1234/56332
+#EXTINF:-1,FR| ALTICE STUDIO FHD
+http://showflix.org:5890/maria/1234/510
+#EXTINF:-1,ALTICE STUDIO H265
+http://showflix.org:5890/maria/1234/56331
+#EXTINF:-1,FR| NRJ 12 FHD
+http://showflix.org:5890/maria/1234/685
+#EXTINF:-1,NRJ12 H265
+http://showflix.org:5890/maria/1234/56277
+#EXTINF:-1,FR| BET* FHD
+http://showflix.org:5890/maria/1234/550
+#EXTINF:-1,MY CUISINE H265
+http://showflix.org:5890/maria/1234/56308
+#EXTINF:-1,--FR| CANAL+ | LIVE --
+http://showflix.org:5890/maria/1234/552
+#EXTINF:-1,FR| CANAL+ FHD
+http://showflix.org:5890/maria/1234/553
+#EXTINF:-1,FR| CANAL+ HD
+http://showflix.org:5890/maria/1234/554
+#EXTINF:-1,CANAL+ H265
+http://showflix.org:5890/maria/1234/56293
+#EXTINF:-1,FR| CANAL+ CINEMA FHD
+http://showflix.org:5890/maria/1234/555
+#EXTINF:-1,FR| CANAL+ CINEMA HD
+http://showflix.org:5890/maria/1234/556
+#EXTINF:-1,CANAL+ CINEMA H265
+http://showflix.org:5890/maria/1234/56292
+#EXTINF:-1,FR| CANAL+ DECALE FHD
+http://showflix.org:5890/maria/1234/557
+#EXTINF:-1,FR| CANAL+ DECALE HD
+http://showflix.org:5890/maria/1234/558
+#EXTINF:-1,CANAL+ DECALE H265
+http://showflix.org:5890/maria/1234/56301
+#EXTINF:-1,FR| CANAL+ FAMILY FHD
+http://showflix.org:5890/maria/1234/559
+#EXTINF:-1,FR| CANAL+ FAMILY HD
+http://showflix.org:5890/maria/1234/560
+#EXTINF:-1,CANAL+ FAMILY h265
+http://showflix.org:5890/maria/1234/56300
+#EXTINF:-1,FR| CANAL+ SERIES FHD
+http://showflix.org:5890/maria/1234/561
+#EXTINF:-1,FR| CANAL+ SERIES HD
+http://showflix.org:5890/maria/1234/562
+#EXTINF:-1,CANAL+ SERIES H265
+http://showflix.org:5890/maria/1234/56294
+#EXTINF:-1,--FR| CINE+ | LIVE --
+http://showflix.org:5890/maria/1234/1423
+#EXTINF:-1,FR| CINE+ PREMIER FHD
+http://showflix.org:5890/maria/1234/563
+#EXTINF:-1,FR| CINE+ PREMIER HD
+http://showflix.org:5890/maria/1234/564
+#EXTINF:-1,CINE+ PREMIER H265
+http://showflix.org:5890/maria/1234/56306
+#EXTINF:-1,FR| CINE+ CLUB FHD
+http://showflix.org:5890/maria/1234/565
+#EXTINF:-1,FR| CINE+ CLUB HD
+http://showflix.org:5890/maria/1234/566
+#EXTINF:-1,FR| CINE+ CLASSIC FHD
+http://showflix.org:5890/maria/1234/569
+#EXTINF:-1,FR| CINE+ CLASSIC HD
+http://showflix.org:5890/maria/1234/570
+#EXTINF:-1,CINE+ CLASSIC H265
+http://showflix.org:5890/maria/1234/56319
+#EXTINF:-1,FR| CINE+ EMOTION FHD
+http://showflix.org:5890/maria/1234/571
+#EXTINF:-1,FR| CINE+ EMOTION HD
+http://showflix.org:5890/maria/1234/572
+#EXTINF:-1,CINE+ EMOTION H265
+http://showflix.org:5890/maria/1234/56305
+#EXTINF:-1,FR| CINE+ FRISSON FHD
+http://showflix.org:5890/maria/1234/573
+#EXTINF:-1,FR| CINE+ FRISSON HD
+http://showflix.org:5890/maria/1234/574
+#EXTINF:-1,CINE+ FRISSON H265
+http://showflix.org:5890/maria/1234/56302
+#EXTINF:-1,FR| CINE+ FAMIZ FHD
+http://showflix.org:5890/maria/1234/567
+#EXTINF:-1,FR| CINE+ FAMIZ HD
+http://showflix.org:5890/maria/1234/568
+#EXTINF:-1,CINE+ FAMIZ H265
+http://showflix.org:5890/maria/1234/56318
+#EXTINF:-1,FR| OCS CHOC FHD
+http://showflix.org:5890/maria/1234/575
+#EXTINF:-1,FR| OCS Choc HD
+http://showflix.org:5890/maria/1234/576
+#EXTINF:-1,OCS CHOC H265
+http://showflix.org:5890/maria/1234/56317
+#EXTINF:-1,FR| OCS CITY FHD
+http://showflix.org:5890/maria/1234/577
+#EXTINF:-1,FR| OCS CITY HD
+http://showflix.org:5890/maria/1234/578
+#EXTINF:-1,OCS CITY H265
+http://showflix.org:5890/maria/1234/56315
+#EXTINF:-1,FR| OCS GEANTS FHD
+http://showflix.org:5890/maria/1234/579
+#EXTINF:-1,FR| OCS GEANTS HD
+http://showflix.org:5890/maria/1234/580
+#EXTINF:-1,OCS GEANTS H265
+http://showflix.org:5890/maria/1234/56316
+#EXTINF:-1,FR| OCS MAX FHD
+http://showflix.org:5890/maria/1234/581
+#EXTINF:-1,FR| OCS Max HD
+http://showflix.org:5890/maria/1234/582
+#EXTINF:-1,OCS MAX H265
+http://showflix.org:5890/maria/1234/56314
+#EXTINF:-1,--FR| SPORT  | LIVE --
+http://showflix.org:5890/maria/1234/583
+#EXTINF:-1,FR| CANAL+ SPORT FHD
+http://showflix.org:5890/maria/1234/584
+#EXTINF:-1,FR| CANAL+ SPORT HD
+http://showflix.org:5890/maria/1234/585
+#EXTINF:-1,CANAL+ SPORT H265
+http://showflix.org:5890/maria/1234/56295
+#EXTINF:-1,FR| beIN SPORTS 1 FHD
+http://showflix.org:5890/maria/1234/58334
+#EXTINF:-1,FR| BEIN SPORTS 1 HD
+http://showflix.org:5890/maria/1234/587
+#EXTINF:-1,beIN SPORTS 1 H265
+http://showflix.org:5890/maria/1234/56285
+#EXTINF:-1,FR| beIN SPORTS 2 FHD
+http://showflix.org:5890/maria/1234/588
+#EXTINF:-1,FR| BEIN SPORTS 2 HD
+http://showflix.org:5890/maria/1234/589
+#EXTINF:-1,beIN SPORTS 2 H265
+http://showflix.org:5890/maria/1234/56286
+#EXTINF:-1,FR| beIN SPORTS 3 FHD
+http://showflix.org:5890/maria/1234/590
+#EXTINF:-1,FR| BEIN SPORTS 3 HD
+http://showflix.org:5890/maria/1234/591
+#EXTINF:-1,beIN SPORTS 3 H265
+http://showflix.org:5890/maria/1234/56287
+#EXTINF:-1,FR| beIN SPORTS MAX 4 FHD
+http://showflix.org:5890/maria/1234/592
+#EXTINF:-1,FR| beIN SPORTS MAX 5 FHD
+http://showflix.org:5890/maria/1234/593
+#EXTINF:-1,FR| beIN SPORTS MAX 6 FHD
+http://showflix.org:5890/maria/1234/594
+#EXTINF:-1,FR| beIN SPORTS MAX 7 FHD
+http://showflix.org:5890/maria/1234/595
+#EXTINF:-1,FR| beIN SPORTS MAX 8 FHD
+http://showflix.org:5890/maria/1234/596
+#EXTINF:-1,FR| beIN SPORTS  MAX 9 FHD
+http://showflix.org:5890/maria/1234/597
+#EXTINF:-1,FR| beIN SPORTS MAX 10 FHD
+http://showflix.org:5890/maria/1234/598
+#EXTINF:-1,FR| RMC SPORT NEWS FHD
+http://showflix.org:5890/maria/1234/599
+#EXTINF:-1,FR| RMC SPORT NEWS HD
+http://showflix.org:5890/maria/1234/600
+#EXTINF:-1,FR| RMC SPORT 1 FHD
+http://showflix.org:5890/maria/1234/601
+#EXTINF:-1,FR| RMC SPORT 1 HD
+http://showflix.org:5890/maria/1234/602
+#EXTINF:-1,RMC SPORT1 H265
+http://showflix.org:5890/maria/1234/56288
+#EXTINF:-1,FR| RMC SPORT ACCESS 1 HD
+http://showflix.org:5890/maria/1234/59761
+#EXTINF:-1,FR| RMC SPORT 2 FHD
+http://showflix.org:5890/maria/1234/603
+#EXTINF:-1,FR| RMC SPORT 2 HD
+http://showflix.org:5890/maria/1234/604
+#EXTINF:-1,RMC SPORT2 H265
+http://showflix.org:5890/maria/1234/56289
+#EXTINF:-1,FR| RMC SPORT ACCESS 2 HD
+http://showflix.org:5890/maria/1234/59762
+#EXTINF:-1,FR| RMC SPORT 3 FHD
+http://showflix.org:5890/maria/1234/605
+#EXTINF:-1,FR| RMC SPORT 3 HD
+http://showflix.org:5890/maria/1234/606
+#EXTINF:-1,RMC SPORT3 H265
+http://showflix.org:5890/maria/1234/56290
+#EXTINF:-1,FR| RMC SPORT ACCESS 3 HD
+http://showflix.org:5890/maria/1234/59763
+#EXTINF:-1,FR| RMC SPORT 4 FHD
+http://showflix.org:5890/maria/1234/607
+#EXTINF:-1,FR| RMC SPORT 4 HD
+http://showflix.org:5890/maria/1234/608
+#EXTINF:-1,RMC SPORT4 H265
+http://showflix.org:5890/maria/1234/56291
+#EXTINF:-1,FR| RMC SPORT 5 HD
+http://showflix.org:5890/maria/1234/609
+#EXTINF:-1,FR| RMC SPORT 6 HD
+http://showflix.org:5890/maria/1234/610
+#EXTINF:-1,FR| RMC SPORT 7 HD
+http://showflix.org:5890/maria/1234/611
+#EXTINF:-1,FR| RMC SPORT 8 HD
+http://showflix.org:5890/maria/1234/612
+#EXTINF:-1,FR| RMC SPORT 9 HD
+http://showflix.org:5890/maria/1234/613
+#EXTINF:-1,FR| RMC SPORT 10 HD
+http://showflix.org:5890/maria/1234/614
+#EXTINF:-1,FR| GOLF CHANNEL FHD
+http://showflix.org:5890/maria/1234/630
+#EXTINF:-1,FR| GOLF CHANNEL HD
+http://showflix.org:5890/maria/1234/631
+#EXTINF:-1,FR| GOLF+ FHD
+http://showflix.org:5890/maria/1234/632
+#EXTINF:-1,FR| GOLF+ HD
+http://showflix.org:5890/maria/1234/633
+#EXTINF:-1,FR| AUTOMOTO TV HD
+http://showflix.org:5890/maria/1234/542
+#EXTINF:-1,FR| INFOSPORT+ HD
+http://showflix.org:5890/maria/1234/621
+#EXTINF:-1,FR| EQUIDIA LIVE FHD
+http://showflix.org:5890/maria/1234/624
+#EXTINF:-1,FR| EQUIDIA LIVE HD
+http://showflix.org:5890/maria/1234/625
+#EXTINF:-1,EQUIDIA H265
+http://showflix.org:5890/maria/1234/56313
+#EXTINF:-1,FR| EUROSPORT 1 FHD
+http://showflix.org:5890/maria/1234/626
+#EXTINF:-1,FR| EUROSPORT 1 HD
+http://showflix.org:5890/maria/1234/627
+#EXTINF:-1,EUROSPORT H265
+http://showflix.org:5890/maria/1234/56334
+#EXTINF:-1,FR| EUROSPORT 2 FHD
+http://showflix.org:5890/maria/1234/628
+#EXTINF:-1,FR| EUROSPORT 2 HD
+http://showflix.org:5890/maria/1234/629
+#EXTINF:-1,EUROSPORT2 H265
+http://showflix.org:5890/maria/1234/56335
+#EXTINF:-1,FR| FOOT+ 24/24 HD
+http://showflix.org:5890/maria/1234/635
+#EXTINF:-1,FR| FOOT+ 24/24 FHD
+http://showflix.org:5890/maria/1234/634
+#EXTINF:-1,FR| L'EQUIPE FHD
+http://showflix.org:5890/maria/1234/622
+#EXTINF:-1,FR| L'EQUIPE HD
+http://showflix.org:5890/maria/1234/623
+#EXTINF:-1,L'EQUIPE H265
+http://showflix.org:5890/maria/1234/56275
+#EXTINF:-1,FR| MULTI SPORTS 1HD
+http://showflix.org:5890/maria/1234/615
+#EXTINF:-1,FR| MULTI SPORTS 2HD
+http://showflix.org:5890/maria/1234/616
+#EXTINF:-1,FR| MULTI SPORTS 3HD
+http://showflix.org:5890/maria/1234/617
+#EXTINF:-1,FR| MULTI SPORTS 4HD
+http://showflix.org:5890/maria/1234/618
+#EXTINF:-1,FR| MULTI SPORTS 5HD
+http://showflix.org:5890/maria/1234/619
+#EXTINF:-1,FR| MULTI SPORTS 6HD
+http://showflix.org:5890/maria/1234/620
+#EXTINF:-1,--FR| DOCUMENTAIRE | LIVE --
+http://showflix.org:5890/maria/1234/637
+#EXTINF:-1,FR| USHUAIA FHD
+http://showflix.org:5890/maria/1234/643
+#EXTINF:-1,FR| USHUAIA HD
+http://showflix.org:5890/maria/1234/644
+#EXTINF:-1,USHUAIA H265
+http://showflix.org:5890/maria/1234/56326
+#EXTINF:-1,FR| ANIMAUX FHD
+http://showflix.org:5890/maria/1234/645
+#EXTINF:-1,FR| ANIMAUX HD
+http://showflix.org:5890/maria/1234/646
+#EXTINF:-1,ANIMAUX H265
+http://showflix.org:5890/maria/1234/56296
+#EXTINF:-1,FR| SEASON HD
+http://showflix.org:5890/maria/1234/640
+#EXTINF:-1,FR| SEASONS FHD
+http://showflix.org:5890/maria/1234/639
+#EXTINF:-1,FR| HISTOIRE FHD
+http://showflix.org:5890/maria/1234/659
+#EXTINF:-1,FR| HISTOIRE HD
+http://showflix.org:5890/maria/1234/660
+#EXTINF:-1,FR| TREK FHD
+http://showflix.org:5890/maria/1234/641
+#EXTINF:-1,FR| TREK HD
+http://showflix.org:5890/maria/1234/642
+#EXTINF:-1,FR| VOYAGE FHD
+http://showflix.org:5890/maria/1234/672
+#EXTINF:-1,FR| VOYAGE HD
+http://showflix.org:5890/maria/1234/673
+#EXTINF:-1,FR| PLANETE+ FHD
+http://showflix.org:5890/maria/1234/647
+#EXTINF:-1,FR| PLANETE+ HD
+http://showflix.org:5890/maria/1234/648
+#EXTINF:-1,PLANETE+ H265
+http://showflix.org:5890/maria/1234/56320
+#EXTINF:-1,FR| PLANETE+ A&E FHD
+http://showflix.org:5890/maria/1234/649
+#EXTINF:-1,FR| PLANETE+ A&E HD
+http://showflix.org:5890/maria/1234/650
+#EXTINF:-1,PLANETE+A&E H265
+http://showflix.org:5890/maria/1234/56327
+#EXTINF:-1,FR| PLANETE+ CI FHD
+http://showflix.org:5890/maria/1234/651
+#EXTINF:-1,FR| PLANETE+ CI HD
+http://showflix.org:5890/maria/1234/652
+#EXTINF:-1,PLANETE + CI H265
+http://showflix.org:5890/maria/1234/56328
+#EXTINF:-1,FR| SCIENCE ET VIE FHD
+http://showflix.org:5890/maria/1234/661
+#EXTINF:-1,FR| SCIENCE&VIE HD
+http://showflix.org:5890/maria/1234/662
+#EXTINF:-1,SCIENCES&VIE H265
+http://showflix.org:5890/maria/1234/56330
+#EXTINF:-1,FR| DISCOVERY CHANNEL FHD
+http://showflix.org:5890/maria/1234/665
+#EXTINF:-1,FR| DISCOVERY HD
+http://showflix.org:5890/maria/1234/666
+#EXTINF:-1,DISCOVERY H265
+http://showflix.org:5890/maria/1234/56321
+#EXTINF:-1,FR| DISCOVERY INVESTIGATION FHD
+http://showflix.org:5890/maria/1234/669
+#EXTINF:-1,FR| DISCOVERY INV HD
+http://showflix.org:5890/maria/1234/670
+#EXTINF:-1,DISCOVERY INVES H265
+http://showflix.org:5890/maria/1234/56324
+#EXTINF:-1,FR| DISCOVERY FAMILY FHD
+http://showflix.org:5890/maria/1234/671
+#EXTINF:-1,DISCOVERY FAMILY H265
+http://showflix.org:5890/maria/1234/56322
+#EXTINF:-1,FR| DISCOVERY SCIENCE FHD
+http://showflix.org:5890/maria/1234/667
+#EXTINF:-1,FR| DISCOVERY SCIENCE HD
+http://showflix.org:5890/maria/1234/668
+#EXTINF:-1,DISCOVERY SCIENCE H265
+http://showflix.org:5890/maria/1234/56323
+#EXTINF:-1,FR| CRIME DISTRICT FHD
+http://showflix.org:5890/maria/1234/663
+#EXTINF:-1,FR| CRIME DISTRICT HD
+http://showflix.org:5890/maria/1234/664
+#EXTINF:-1,FR| RMC DECOUVERTE FHD
+http://showflix.org:5890/maria/1234/653
+#EXTINF:-1,FR| RMC DECOUVERTE HD
+http://showflix.org:5890/maria/1234/654
+#EXTINF:-1,RMC DECOUVERTE H265
+http://showflix.org:5890/maria/1234/56284
+#EXTINF:-1,FR| NATIONAL GEO FHD
+http://showflix.org:5890/maria/1234/655
+#EXTINF:-1,FR| NATIONAL GEO HD
+http://showflix.org:5890/maria/1234/656
+#EXTINF:-1,NATIONAL GEO CHANNEL H265
+http://showflix.org:5890/maria/1234/56309
+#EXTINF:-1,FR| NAT GEO WILD HD
+http://showflix.org:5890/maria/1234/658
+#EXTINF:-1,NAT GEO WILD H265
+http://showflix.org:5890/maria/1234/56297
+#EXTINF:-1,FR| Toute l'histoire FHD
+http://showflix.org:5890/maria/1234/674
+#EXTINF:-1,TOUTE L HISTOIRE H265
+http://showflix.org:5890/maria/1234/56276
+#EXTINF:-1,FR| CHASSE ET PECHE FHD
+http://showflix.org:5890/maria/1234/675
+#EXTINF:-1,CHASSE & PECHE H265
+http://showflix.org:5890/maria/1234/56329
+#EXTINF:-1,--FR| ENFANT | LIVE --
+http://showflix.org:5890/maria/1234/714
+#EXTINF:-1,FR| BOING FHD
+http://showflix.org:5890/maria/1234/735
+#EXTINF:-1,FR| BOING HD
+http://showflix.org:5890/maria/1234/736
+#EXTINF:-1,FR| BOOMERANG FHD
+http://showflix.org:5890/maria/1234/733
+#EXTINF:-1,FR| BOOMERANG HD
+http://showflix.org:5890/maria/1234/734
+#EXTINF:-1,BOOMERANG H265
+http://showflix.org:5890/maria/1234/56303
+#EXTINF:-1,FR| CANAL J FHD
+http://showflix.org:5890/maria/1234/715
+#EXTINF:-1,FR| CANAL J HD
+http://showflix.org:5890/maria/1234/716
+#EXTINF:-1,CANALJ H265
+http://showflix.org:5890/maria/1234/56325
+#EXTINF:-1,FR| DISNEY CHANNEL FHD
+http://showflix.org:5890/maria/1234/737
+#EXTINF:-1,FR| DISNEY CHANNEL HD
+http://showflix.org:5890/maria/1234/738
+#EXTINF:-1,DISNEY CHANNEL H265
+http://showflix.org:5890/maria/1234/56310
+#EXTINF:-1,FR| DISNEY CINEMA FHD
+http://showflix.org:5890/maria/1234/739
+#EXTINF:-1,FR| DISNEY CINEMA HD
+http://showflix.org:5890/maria/1234/740
+#EXTINF:-1,FR| DISNEY JUNIOR FHD
+http://showflix.org:5890/maria/1234/741
+#EXTINF:-1,FR| DISNEY JUNIOR HD
+http://showflix.org:5890/maria/1234/742
+#EXTINF:-1,DISNEY JUNIOR H265
+http://showflix.org:5890/maria/1234/56311
+#EXTINF:-1,FR| DISNEY XD FHD
+http://showflix.org:5890/maria/1234/743
+#EXTINF:-1,FR| DISNEY XD HD
+http://showflix.org:5890/maria/1234/744
+#EXTINF:-1,FR| CARTOON NETWORK FHD
+http://showflix.org:5890/maria/1234/749
+#EXTINF:-1,FR| CARTOON NETWORK HD
+http://showflix.org:5890/maria/1234/750
+#EXTINF:-1,CARTOON NETWORK H265
+http://showflix.org:5890/maria/1234/56299
+#EXTINF:-1,FR| GAME ONE FHD
+http://showflix.org:5890/maria/1234/719
+#EXTINF:-1,FR| GAME ONE HD
+http://showflix.org:5890/maria/1234/720
+#EXTINF:-1,GAME ONE H265
+http://showflix.org:5890/maria/1234/56339
+#EXTINF:-1,FR| GULLI FHD
+http://showflix.org:5890/maria/1234/725
+#EXTINF:-1,FR| GULLI HD
+http://showflix.org:5890/maria/1234/726
+#EXTINF:-1,GULLI H265
+http://showflix.org:5890/maria/1234/56274
+#EXTINF:-1,FR| MANGAS FHD
+http://showflix.org:5890/maria/1234/721
+#EXTINF:-1,FR| MANGAS HD
+http://showflix.org:5890/maria/1234/722
+#EXTINF:-1,FR| PIWI+ FHD
+http://showflix.org:5890/maria/1234/723
+#EXTINF:-1,FR| PIWI+ HD
+http://showflix.org:5890/maria/1234/724
+#EXTINF:-1,FR| TELETOON+ FHD
+http://showflix.org:5890/maria/1234/727
+#EXTINF:-1,FR| TELETOON+ HD
+http://showflix.org:5890/maria/1234/728
+#EXTINF:-1,FR| TIJI FHD
+http://showflix.org:5890/maria/1234/729
+#EXTINF:-1,FR| TIJI HD
+http://showflix.org:5890/maria/1234/730
+#EXTINF:-1,FR| TOONAMI FHD
+http://showflix.org:5890/maria/1234/731
+#EXTINF:-1,FR| TOONAMI HD
+http://showflix.org:5890/maria/1234/732
+#EXTINF:-1,FR| J-ONE FHD
+http://showflix.org:5890/maria/1234/717
+#EXTINF:-1,FR| J-ONE HD
+http://showflix.org:5890/maria/1234/718
+#EXTINF:-1,FR| NICKELODEON FHD
+http://showflix.org:5890/maria/1234/745
+#EXTINF:-1,FR| NICKELODEON HD
+http://showflix.org:5890/maria/1234/746
+#EXTINF:-1,NICKELODEON H265
+http://showflix.org:5890/maria/1234/56338
+#EXTINF:-1,FR| NICK JUNIOR FHD
+http://showflix.org:5890/maria/1234/747
+#EXTINF:-1,FR| NICK JUNIOR HD
+http://showflix.org:5890/maria/1234/70441
+#EXTINF:-1,NICK JUNIOR H265
+http://showflix.org:5890/maria/1234/56336
+#EXTINF:-1,FR| Nickelodeon 4 TEEN FHD
+http://showflix.org:5890/maria/1234/748
+#EXTINF:-1,NICKELODEON 4TEEN H265
+http://showflix.org:5890/maria/1234/56337
+#EXTINF:-1,--FR|  FR MUSIC | LIVE --
+http://showflix.org:5890/maria/1234/676
+#EXTINF:-1,FR| MTV FRANCE FHD
+http://showflix.org:5890/maria/1234/677
+#EXTINF:-1,FR| MTV HITS FHD
+http://showflix.org:5890/maria/1234/678
+#EXTINF:-1,FR| DJAZZ TV HD
+http://showflix.org:5890/maria/1234/682
+#EXTINF:-1,FR| M6 MUSIC FHD
+http://showflix.org:5890/maria/1234/679
+#EXTINF:-1,M6 MUSIC H265
+http://showflix.org:5890/maria/1234/56298
+#EXTINF:-1,FR| MCM FHD
+http://showflix.org:5890/maria/1234/680
+#EXTINF:-1,FR| MCM TOP FHD
+http://showflix.org:5890/maria/1234/681
+#EXTINF:-1,MCM TOP H265
+http://showflix.org:5890/maria/1234/56312
+#EXTINF:-1,FR| NRJ HITS HD
+http://showflix.org:5890/maria/1234/686
+#EXTINF:-1,FR| TRACE AFRICA FHD
+http://showflix.org:5890/maria/1234/687
+#EXTINF:-1,FR| TRACE TROPICAL HD
+http://showflix.org:5890/maria/1234/688
+#EXTINF:-1,FR| TRACE URBAN FHD
+http://showflix.org:5890/maria/1234/689
+#EXTINF:-1,FR| TRACE MZIKI
+http://showflix.org:5890/maria/1234/690
+#EXTINF:-1,FR| TRACE NAIJA
+http://showflix.org:5890/maria/1234/691
+#EXTINF:-1,FR| TRACE TOCA
+http://showflix.org:5890/maria/1234/692
+#EXTINF:-1,FR| VH1 CLASSIC
+http://showflix.org:5890/maria/1234/684
+#EXTINF:-1,FR| VH1 FHD
+http://showflix.org:5890/maria/1234/683
+#EXTINF:-1,-- FR| ON DOMEND --
+http://showflix.org:5890/maria/1234/693
